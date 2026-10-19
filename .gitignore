@@ -1,0 +1,4 @@
+__pycache__/
+*.npz
+snaps/
+.DS_Store
